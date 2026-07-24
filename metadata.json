@@ -1,0 +1,6 @@
+{
+  "name": "New Mantu Pharma",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Gaya, Bihar. View services, search medicines, and place orders via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
