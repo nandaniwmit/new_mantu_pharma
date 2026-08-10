@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://new-mantu-pharma.vercel.app/sitemap.xml
