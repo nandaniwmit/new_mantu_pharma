@@ -203,7 +203,7 @@ export default function Footer({ onPageChange, darkMode, currentPage }: FooterPr
           </div>
 
           <p className="leading-relaxed">
-            &copy; {new Date().getFullYear()} {BUSINESS_INFO.name}. All Rights Reserved. Located at Tekari Road, Gaya, Bihar 823001. Developed by <a href="https://main.webmakerit.com" target="_blank" rel="noopener noreferrer" className="text-brand-green hover:underline">WMIT</a>.
+            &copy; {new Date().getFullYear()} {BUSINESS_INFO.name}. All Rights Reserved. Located at Tekari Road, Gaya, Bihar 823001. Developed by <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>.
           </p>
           <p className="text-[10px] text-slate-600 max-w-2xl mx-auto italic">
             Disclaimer: The information provided on this website is for educational and communication purposes only. Sourcing and dispensing of scheduled drugs are subject to verification of a valid registered medical prescription inside our brick-and-mortar store in Gaya.
